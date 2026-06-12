@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.6.4](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.3...protobufjs-v8.6.4) (2026-06-12)
+
+
+### Bug Fixes
+
+* Avoid materializing ProtoJSON WKT defaults ([#2326](https://github.com/protobufjs/protobuf.js/issues/2326)) ([6aaee14](https://github.com/protobufjs/protobuf.js/commit/6aaee148e76d18faf86621637cc6e5e7bf267cb9))
+
 ## [8.6.3](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.2...protobufjs-v8.6.3) (2026-06-10)
 
 
